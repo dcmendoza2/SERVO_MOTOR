@@ -4,5 +4,5 @@ This repository is created for use by students of ME 71 under University of the 
 
 This will serve as the codebase for any demonstration for the lesson in Servo Motors.
 
-# DC_MOTOR
+# Servo_MOTOR
 TinkerCAD Example: https://www.tinkercad.com/things/gvnkK7zD98C
